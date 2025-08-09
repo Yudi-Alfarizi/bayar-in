@@ -2,7 +2,7 @@
 
 Bayar.in adalah prototype **UI dompet digital berbasis web** yang menampilkan fitur pembayaran, top-up, transfer, dan riwayat transaksi. Project ini dibangun menggunakan **HTML**, **CSS**, **JavaScript**, dan **Tailwind CSS**.
 
-![Bayar.in Preview](assets/images/preview.png)
+![Bayar.in Preview](dist/assets/images/Dashboard.png)
 
 ---
 
