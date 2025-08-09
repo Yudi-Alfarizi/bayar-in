@@ -20,10 +20,10 @@ Project ini tidak memiliki backend dan seluruh interaksi bersifat dummy/prototyp
 - **JavaScript** – interaksi sederhana
 - **Tailwind CSS** – styling modern dan responsif
 <p align="left">
-  <img src="dist/assets/images/html.png" alt="HTML5" width="50" height="50"/>
-  <img src="dist/assets/images/css3.png" alt="CSS3" width="50" height="50"/>
-  <img src="dist/assets/images/js.pngpng" alt="JavaScript" width="50" height="50"/>
-  <img src="dist/assets/images/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="dist/assets/images/html.png" alt="HTML5" width="70" height="70"/>
+  <img src="dist/assets/images/css3.png" alt="CSS3" width="70" height="70"/>
+  <img src="dist/assets/images/js.png" alt="JavaScript" width="70" height="70"/>
+  <img src="dist/assets/images/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" width="70" height="70"/>
 </p>
 
 ---
