@@ -19,6 +19,12 @@ Project ini tidak memiliki backend dan seluruh interaksi bersifat dummy/prototyp
 - **CSS3** – styling dasar
 - **JavaScript** – interaksi sederhana
 - **Tailwind CSS** – styling modern dan responsif
+<p align="left">
+  <img src="dist/assets/images/html.png" alt="HTML5" width="50" height="50"/>
+  <img src="dist/assets/images/css3.png" alt="CSS3" width="50" height="50"/>
+  <img src="dist/assets/images/js.pngpng" alt="JavaScript" width="50" height="50"/>
+  <img src="dist/assets/images/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" width="50" height="50"/>
+</p>
 
 ---
 
@@ -40,11 +46,10 @@ Project ini dapat diakses secara online melalui Netlify:
 
 ## 🧠 AI Support (IBM Granite)
 Dalam proses pengembangan project ini, saya memanfaatkan **AI IBM Granite** untuk:
-- Membuat dan mengoptimasi struktur HTML dengan Tailwind CSS.
-- Memberikan rekomendasi skema warna, tipografi, dan layout sesuai konsep brand *Bayar.in*.
-- Membuat skrip JavaScript sederhana untuk interaksi UI.
+- Membuat animasi **sukses transfer** dan **sukses top up** agar tampilan lebih interaktif dan menarik.
+- Membantu merancang dan membuat **halaman detail transaksi**.
+- Memberikan saran penyesuaian styling agar animasi dan halaman baru tetap konsisten dengan tema Bayar.in.
 - Membantu menyusun dokumentasi project (README.md) dan poin-poin untuk slide presentasi.
-- Memberikan saran perbaikan tampilan agar lebih responsif di berbagai ukuran layar.
 
 ---
 
